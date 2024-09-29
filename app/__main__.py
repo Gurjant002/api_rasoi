@@ -3,10 +3,8 @@ import uvicorn
 def main():
     """ Entry point """
     uvicorn.run(
-        "src.app:app",
+        "app.application:get_app",
         workers=2,
-        host="0.0.0.0",
-        port=8000,
         log_level="debug",
         factory=True,
         reload=True,

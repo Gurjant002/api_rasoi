@@ -1,0 +1,172 @@
+{
+    "Category": {
+        "Tapas": [
+            {
+                "Name": "Croquetas de Pollo Caseras",
+                "Description": "Croquetas de pollo rebozadas y fritas con salsa alioli.",
+                "Price": 7.50
+            },
+            {
+                "Name": "Nuggets de Pollo",
+                "Description": "8 Unidades + patatas fritas y ketchup.",
+                "Price": 5.90
+            },
+            {
+                "Name": "Panettis con salsa",
+                "Description": "Panecillos fritos a compañados con Salsa de Quesos, salsa picante y aceitunas negras",
+                "Price": 6.50
+            },
+            {
+                "Name": "Carpaccio de Ternera con Limón",
+                "Description": "Carpaccio de ternera, champiñones, rúcula, limón, parmesano, aliñado con aceite de oliva.",
+                "Price": 9.50
+            },
+            {
+                "Name": "Carpaccio de Trufa Negra",
+                "Description": "Champi ones, parmesano, aceite de oliva, r cula, ali ados con salsa de trufa negra.",
+                "Price": 8.90
+            },
+            {
+                "Name": "Queso Frito con Mermelada de Fresa",
+                "Description": "8 Unidades con membrillo de fresa.",
+                "Price": 7.90
+            },
+            {
+                "Name": "Mozzarella de Bufala Calido",
+                "Description": "Mozzarella de bufala, pesto de albahaca y salsa de tomate.",
+                "Price": 7.90
+            },
+            {
+                "Name": "Patatas del Chef",
+                "Description": "Patatas gratinadas al horno con bacon y salsa casera.",
+                "Price": 6.50
+            },
+            {
+                "Name": "Patatas con Huevo Frito y Salsa de Trufa",
+                "Description": "Patatas con huevo frito y salsa de trufa.",
+                "Price": 7.90
+            },
+            {
+                "Name": "Calamares Fritos con Salsa Ketchup",
+                "Description": "Patatas fritas con salsa ketchup.",
+                "Price": 9.00
+            },
+            {
+                "Name": "Patatas con Salsa de Alioli",
+                "Description": "Salsa alioli con patatas fritas.",
+                "Price": 6.00
+            }
+        ],
+        "Ensalada": [
+            {
+                "Name": "R cula",
+                "Description": "R cula, lechuga, tomate cherry, pasas, pollo, picatostes, parmesano y salsa alioli.",
+                "Price": 6.90
+            },
+            {
+                "Name": "Caprese Bufala y Ensalada de Mozzarella",
+                "Description": "Mozzarella de bufala, albahaca, tomate cherry, aceite de oliva.",
+                "Price": 8.90
+            },
+            {
+                "Name": "Tonno",
+                "Description": "R cula, lechuga, tomate cherry, aceitunas, olivas verdes y ma z.",
+                "Price": 7.50
+            }
+        ],
+        "Piadina": [
+            {
+                "Name": "Napoli Especial",
+                "Description": "R cula, lechuga, tomate, pollo, r cula, kikos de ma z, aguacate, parmesano y crema de vinagre bals mico.",
+                "Price": 6.90
+            },
+            {
+                "Name": "Cesar",
+                "Description": "Lechuga, picatostes, panceta crujiente, parmesano, pollo ali ado con salsa de cesar.",
+                "Price": 6.90
+            },
+            {
+                "Name": "4 Quesos",
+                "Description": "Parmesano, gorgonzola, mozzarella y scamorza.",
+                "Price": 7.90
+            },
+            {
+                "Name": "Milano",
+                "Description": "Jam n york, champi ones, huevo a la plancha, mozzarella y gorgonzola.",
+                "Price": 7.90
+            }
+        ],
+        "Pizzas": [
+            {
+                "Name": "Margarita",
+                "Description": "Tomate, mozzarella y or gano.",
+                "Price": 8.00
+            },
+            {
+                "Name": "Siciliana",
+                "Description": "Tomate, mozzarella, carne picada y cebolla.",
+                "Price": 8.90
+            },
+            {
+                "Name": "Napolitana",
+                "Description": "Mozzarella, tomate cherry, jam n york y queso de cabra.",
+                "Price": 8.90
+            },
+            {
+                "Name": "Barbacoa",
+                "Description": "Tomate, mozzarella, bacon, carne picada, champi ones y salsa barbacoa.",
+                "Price": 8.90
+            },
+            {
+                "Name": "Pizza del Chef",
+                "Description": "Salsa napoli, mozzarella, huevo frito, jam n, champi ones y r cula.",
+                "Price": 8.90
+            },
+            {
+                "Name": "Cuatro Estaciones",
+                "Description": "Champi ones, jam n york, pimientos rojos y salami.",
+                "Price": 9.50
+            }
+        ],
+        "Pasta": [
+            {
+                "Name": "Espaguetis Carbonara",
+                "Description": "Salsa carbonara con champi ones.",
+                "Price": 8.90
+            },
+            {
+                "Name": "Rigatoni Trufa",
+                "Description": "Jam n, champi ones y salsa de trufa.",
+                "Price": 8.90
+            },
+            {
+                "Name": "Lasagna Bolognesa",
+                "Description": "Carne, bechamel, tomate y queso.",
+                "Price": 8.90
+            },
+            {
+                "Name": "Canelones Bolognesa",
+                "Description": "Salsa de carne, bechamel, tomate y parmesano.",
+                "Price": 8.90
+            },
+            {
+                "Name": "Rigatoni 5 Quesos",
+                "Description": "Salsa de queso con champi ones y nata.",
+                "Price": 8.90
+            }
+        ],
+        "Bocadillos": [
+            {
+                "Name": "Bueno",
+                "Description": "Bacon, tomate, lechuga, huevo y mayonesa.",
+                "Price": 6.50
+            },
+            {
+                "Name": "Pollo",
+                "Description": "Pechuga de pollo, lechuga, tomate, mayonesa.",
+                "Price": 7.50
+            }
+        ]
+    }
+}
+
