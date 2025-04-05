@@ -1,4 +1,5 @@
 import json
+from app.models.menu_model import Plate
 
 def read_json():
   with open("data/restaurant_menu.json") as f:
@@ -6,4 +7,8 @@ def read_json():
 
 def query_all_menu() -> list[dict]:
   menu = read_json()
+  return menu
+
+def insert_list_menu(menu: list[dict]) -> list[dict]:
+  print(menu)
   return menu

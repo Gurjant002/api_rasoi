@@ -13,3 +13,10 @@ API created to manage orders in a restaurant.
 ```bash
   $ uvicorn app.application:get_app --reload --log-config=log_conf.yaml
 ```
+
+# Endpoints
+  All the endpoints are listed in OpenApi on this route:
+
+  ```
+    localhost:8000/openAPI
+  ```

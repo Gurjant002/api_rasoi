@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from app.controllers.menu import get_menus
+from app.controllers.menu import get_menus, insert_menu
 
 router = APIRouter()
 
@@ -10,15 +10,9 @@ async def get_menu():
   except Exception as e:
     return {"error": str(e)}
 
-@router.post("/add-plate", tags=["Menu"])
-async def add_plate():
-  return {"menu": "Khush"}
-
-@router.put("/update-plate", tags=["Menu"])
-async def update_plate():
-  return {"menu": "Khush"}
-
-@router.delete("/delete-plate", tags=["Menu"])
-async def delete_plate():
-  return {"menu": "Khush"}
-
+@router.post("/insert", tags=["Menu"])
+async def add_menu():
+  try:
+    return 
+  except Exception as e:
+    return {"error": str(e)}
